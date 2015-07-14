@@ -1,0 +1,15 @@
+{
+  "name": "cca-drone",
+  "version": "1.0.0",
+  "description": "An example autonomous flying drone module",
+  "author": "Cambridge Coding Academy <contact@cambridgecoding.com>",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.cambridgecoding.com:10022/workshop-content/drone-summer-code.git"
+  },
+  "dependencies": {
+    "cylon": "^1.0.0",
+    "cylon-ardrone": "^0.19.0",
+    "nodejs-websocket": "^1.2.1"
+  }
+}
