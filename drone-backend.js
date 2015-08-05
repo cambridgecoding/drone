@@ -1,5 +1,4 @@
 var Cylon = require('cylon');
-var ws = require('nodejs-websocket');
 var bot;
 
 // Initialise the robot
